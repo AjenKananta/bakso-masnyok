@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';
+$host = 'railway';
 $dbname = 'bakso_masnyok';  // Diubah ke nama database baru
 $username = 'root';
 $password = '';
